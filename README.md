@@ -1,4 +1,4 @@
-<h1 align="center">Portfolio<img src="./icon/portfolio-icon.png" alt="Image" height="60" width="60"></h1>
+<h1 align="center">Portfolio<img src="https://github.com/tiagowk/portfolio/blob/main/icon/portfolio-icon.png" alt="Image" height="60" width="60"></h1>
 
 <!-- Engenharia de Dados -->
 <details>
